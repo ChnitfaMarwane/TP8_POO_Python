@@ -1,0 +1,4 @@
+[2025-12-12T21:45:54] DEBUT du traitement du lot 'operations_flan.csv'.
+[2025-12-12T21:45:54] FIN du traitement (Succès).
+[2025-12-12T21:45:54] DEBUT du traitement du lot 'operations_flan.csv'.
+[2025-12-12T21:45:54] FIN du traitement (ÉCHEC : RuntimeError - Erreur de données à la ligne 4).
