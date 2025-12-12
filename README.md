@@ -2,6 +2,7 @@ Output - Exercice 1 - TP8
 
 <img width="829" height="147" alt="output" src="https://github.com/user-attachments/assets/f5ba8fc2-fe4d-49a8-b6c0-58a54852e060" />
 
+
 Output - Exercice 2 - TP8
 
 <img width="827" height="185" alt="output" src="https://github.com/user-attachments/assets/200055b1-7e78-4806-b500-87ca0faa2ad3" />
